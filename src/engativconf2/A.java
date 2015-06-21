@@ -6,6 +6,16 @@ public class A {
     private int A1;
 
     private String A3;
+    
+    private String Aramo4;
+
+    public String getAramo4() {
+        return Aramo4;
+    }
+
+    public void setAramo4(String Aramo4) {
+        this.Aramo4 = Aramo4;
+    }
 
     public String getA3() {
         return A3;
